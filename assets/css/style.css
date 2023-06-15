@@ -699,6 +699,7 @@ section {
   color: #45505b;
   margin: 0 2px;
   font-size: 28px;
+  font-family: "Raleway", sans-serif;
   display: inline-block;
   transition: 0.3s;
 }
